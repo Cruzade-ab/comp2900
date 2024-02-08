@@ -10,9 +10,16 @@ for n in range(1,9):
 
 
 #While loop
-print("For #3")
+print("While #1")
 n = 0 
 while (n<4): 
     n = n+1
     print(n)
 
+
+print("While # 2")
+opcion = 1
+
+while(opcion != 0):
+    opcion = int(input('0 Terminar - 1 Continuar :'))
+    
