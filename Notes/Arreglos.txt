@@ -1,0 +1,24 @@
+Arreglos
+--------
+
+Caracteristicas de un arreglo 
+
+	1- CAda valor se denomina elemento
+	2- El tamano en el arreglo es fijo 
+	3- El tamano esta definido por la cantidad de elementos
+
+El arreglo posee un indice que representa el elemento almacenado 
+
+["Rojo","Azul","Verde","Amarillo"]
+
+Inice Rojo = 0 
+
+Indice Amarillo = 4
+
+==========================================================================
+
+Los arreglos no son estructuras nativas de Python-*-
+	Libreria ya integrada 
+
+Metodos **
+
