@@ -13,4 +13,4 @@ for n in aNumber:
     print (f'Valor:{n}')
     
 for i in range(len(aNumber)):
-    print(f"Valor {n}")
+    print (f'Indice: {i} -Valor: {aNumber[i]}')
