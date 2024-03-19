@@ -8,8 +8,8 @@ def mayor(lista):
 
 
 
-lst = [10, 4, 3, 15, 9, 22, 221, 1, 22, 12]
+lista = [10, 4, 3, 15, 9, 22, 221, 1, 22, 12]
 
-print(lst)
+print(lista)
 
-print(f'El valor maximo es {mayor(lst)}')
+print(f'El valor maximo es {mayor(lista)}')
