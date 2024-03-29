@@ -3,4 +3,4 @@ def ejercicio_3(n):
     while n > 1:
         n = n / 2
         i += 1
-        return i
+    return i
